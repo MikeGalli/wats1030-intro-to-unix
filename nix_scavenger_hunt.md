@@ -1,4 +1,4 @@
-# *nix Scavenger Hunt
+# *nix Scavenger Hunt ZZZZZ
 
 Complete the following challenges using the command-line interface on your favorite
 Unix or Linux operating system. You are welcome and encouraged to consult any
